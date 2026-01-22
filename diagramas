@@ -1,0 +1,12 @@
+Arquitetura da Solução
+
+A arquitetura proposta segue o modelo **multi-tier**, separando claramente as camadas:
+
+- Camada Web (pública)
+- Camada de Aplicação
+- Camada de Dados (privada)
+
+Essa separação garante:
+- Maior segurança
+- Melhor controle de acesso
+- Escalabilidade independente por camada
